@@ -105,7 +105,7 @@ adicionar e a interface deve mostrar o _resumo do pedido_ com o custo total.
 
 ## 4. Protótipo
 
-Para criação dos Protótipos desenvolvido na ferramenta [Figma](https://www.figma.com/file/5ZZ7yC1CMRTZYWDjNwMOrp/Figma-Basics?node-id=0%3A286).
+Para criação dos Protótipos desenvolvido na ferramenta [Figma](https://www.figma.com/proto/5ZZ7yC1CMRTZYWDjNwMOrp/Figma-Basics?node-id=330%3A231&scaling=contain&page-id=0%3A286&starting-point-node-id=330%3A231).
 
 ## Tablet 
 <img src="https://user-images.githubusercontent.com/97405991/175460446-de4c10a3-a1b9-436b-9db8-62d46e435e58.png" alt="protótipo alta fidelidade" />
